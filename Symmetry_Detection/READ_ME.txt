@@ -2,7 +2,7 @@
 
 - Les fichiers sources se trouvent dans le fichier src
 
-- Les .jar utiles sont ceux du cours (TC.jar, core.jar, jpg.jar et Processing)
+- Les .jar utiles sont ceux du cours (TC.jar, core.jar, jcg.jar et Processing)
 
 - Celui-ci contient 2 classes main et 2 packages
 
