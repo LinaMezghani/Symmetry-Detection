@@ -1,14 +1,15 @@
-		—— INSTRUCTIONS D’EXÉCUTION ——
+		—— INSTRUCTIONS TO RUN OUR CODE ——
+		
 
-- Les fichiers sources se trouvent dans le fichier src
+- useful .jar are in the LIB folder (TC.jar, core.jar, jcg.jar et Processing)
 
-- Les .jar utiles sont ceux du cours (TC.jar, core.jar, jcg.jar et Processing)
+- source files are in the src folder
 
-- Celui-ci contient 2 classes main et 2 packages
+- It contains 2 main classes and 2 packages
 
-- La classe main TestSymmetryDetection_2 permet d’éxecuter la détection de symétrie pour la 2D, et la classe main TestSymmetryDetection_3 pour la 3D.
+- The main class TestSymmetryDetection_2 executes symmetry detection for 2D and TestSymmetryDetection_3 for 3D.
 
-- Les packages _2D et _3D contiennent les classes utiles pour la détection de symétrie en 2D et en 3D.
+- Packages _2D et _3D contain useful classes for 2D and 3D symmetry detection.
 
-- Pour éxécuter la détection de symétrie, il suffit de choisir les paramètres voulus de bandWidth et ration dans le setup de l’une des classes TestSymmetryDetection_
+- To run the symmetry detection, just choose bandWidth and ratio parameter in the setup of on of the Test_SymmetryDetection_ class.
 
