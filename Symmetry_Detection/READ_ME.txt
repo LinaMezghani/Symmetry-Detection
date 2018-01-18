@@ -1,7 +1,7 @@
 		—— INSTRUCTIONS TO RUN OUR CODE ——
 		
 
-- useful .jar are in the LIB folder (TC.jar, core.jar, jcg.jar et Processing)
+- useful .jar are in the LIB folder (TC.jar, core.jar, jcg.jar)
 
 - source files are in the src folder
 
